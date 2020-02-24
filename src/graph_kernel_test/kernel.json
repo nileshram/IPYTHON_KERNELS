@@ -1,0 +1,2 @@
+{"argv" : ["python", "-m", "graphkernel", "-f", "{connection_file}"],
+ "display_name" : "Graph Plotter" }
