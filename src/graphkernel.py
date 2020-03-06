@@ -43,7 +43,7 @@ class PlotKernel(Kernel):
         functions = code.split('\n')
         for fun in functions:
             f = _parse_function(fun)
-            y = f(x)
+            y = f(x) #this is the equivalent exec of y = f(x)
             ax.plot(x, y)
         ax.set_xlim(-5, 5)
         # We create a PNG out of this plot.
