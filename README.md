@@ -1,2 +1,2 @@
-# ipython_kernels
+# IPYTHON_KERNELS
 Blend of Ipython Kernels
